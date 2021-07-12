@@ -24,4 +24,4 @@ Decision tree
 ## Key findings:
 1. Males have more delayed payment than females in this dataset. Keep in mind that this finding only applies to this dataset.
 2. Customers with higher education have less default payments and higher credit limits.
-3. There appears to be no correlation between default payment and marital status.
+
